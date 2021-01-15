@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Jenna Truong', // Title for your website.
-    tagline: 'Software Engineer - Continuously learning, improving & giving back',
+    tagline: 'Software Engineer - Striving to continuously learn, grow & give back',
     profilePhoto: 'img/profile.png',
     url: 'https://jennatruong.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
